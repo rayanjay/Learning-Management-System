@@ -1,0 +1,2 @@
+Register account on https://github.com/ to study version control techniques for your team work
+on the project. A list of basic git commands is attached with this project assignment instruction.

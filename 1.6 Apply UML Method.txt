@@ -1,0 +1,2 @@
+Through requirements and analysis of the project, draw out necessary UML diagrams in the
+project.

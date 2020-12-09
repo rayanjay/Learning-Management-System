@@ -1,0 +1,6 @@
+Jabari,Fowler,123456,UHD,SENIOR,42 Blanket drive,7135561234,houst@hotmail.com
+Daniel,Sanchez,123456,UHD,SENIOR,4303 Herridge St,8323013449,marshall@jourrapid.com
+Rayan,Arif,6651231,UHD,SENIOR,4999 Still Pastuers Dr,8034844587,shirley@rapids.com
+EEEEEE ,JAY,41651,UHD,SENIOR,2110 Doe Meadow dr,3015596917,brown@armyspy.com
+Harry,Cherrip,5432135,UHD,Senior,1 Main St,8325698457,corygeorge@gmail.com
+Naruto,Asuzamaki,154896,UHD,Freshamn,453 West st,71345689213l,shippuden@jump.com

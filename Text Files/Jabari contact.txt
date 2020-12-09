@@ -1,0 +1,7 @@
+First Name:, Jabari
+Last Name :, Fowler
+ID, 123456
+Phone Number, 7135561234
+Email:, houst@hotmail.com
+Address:, 42 Blanket drive
+Classification:, SENIOR

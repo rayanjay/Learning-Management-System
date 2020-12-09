@@ -1,0 +1,7 @@
+Data storage is critical for all businesses. A good data storage does not allow any form of
+anomalies and stores only relevant information in an ordered manner. If a data storage has
+anomalies, it is affecting the efficiency and data integrity. For example, delete anomaly arise
+upon the deletion of a row which also forces other useful data to be lost. In this project, you need
+to design data record files to build this software system. Include the necessary artifacts related to
+data storage in the project. You don’t need to design a database for the project. Plain text files are
+enough to achieve the goals for this project.
